@@ -1,1 +1,1 @@
-print("sekai")
+print("hello world")
